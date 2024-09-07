@@ -1,0 +1,8 @@
+Promt the user to input enter a coupon amount as a decimal (e.g., .10): "
+Validate the coupon amount 
+Set the value to 10% if the value exceeds 100% or is less than or equal to zero
+Prompt the user to enter weekly grocery bills
+Calculate the total monthly and weekly grocery bills
+Calculate the total monthly and weekly grocery bills with coupon
+Display the results of weekly and monthly grocery bills with and without coupon
+End program

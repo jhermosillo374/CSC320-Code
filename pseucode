@@ -1,0 +1,19 @@
+
+    Declare firstName as STRING
+    Declare lastName as STRING
+    Declare streetAddress as STRING
+    Declare city as STRING
+    Declare zipCode as STRING
+
+    Set firstName = "Poe"
+    Set lastName = "Hernandez"
+    Set streetAddress = "234 Main St"
+    Set city = "New York"
+    Set zipCode = "32125"
+
+    Print the firstName
+    Print the lastName
+    Print the streetAddress
+    Print the city
+    Print the zipCode
+End 

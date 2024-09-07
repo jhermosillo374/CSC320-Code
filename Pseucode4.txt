@@ -1,0 +1,12 @@
+Initialize the Class Grade Statistics
+Create an array of 10 to store the grades 
+Initialize the variables sum, max, and min 
+Input a for loop that will iterate 10 times which will prompt the user to enter a grade each time
+Create a while loop that will ensure the user only inputs a valid grade between 1 to 100
+Use scanner.next to input the next grade
+Create if conditions to execute the sum, max, and min
+Break the while loop if the input is invalid
+Print out "invalid grade" in else if the grade is not between 1 to 100
+Calculate the average of the grades
+Print out the results
+Close the program using scanner.close
